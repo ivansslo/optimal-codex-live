@@ -1,0 +1,56 @@
+{
+  "name": "optimal-ai-codex",
+  "private": true,
+  "version": "4.0.0",
+  "type": "module",
+  "description": "Optimal AI Codex — Next-Gen AI Workspace | Live Production Deploy",
+  "author": {
+    "name": "Ivan Ssl",
+    "url": "https://github.com/ivansslo",
+    "email": "ivansslo@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivansslo/optimal-codex-live.git"
+  },
+  "homepage": "https://ivansslo.github.io/optimal-codex-live/",
+  "bugs": {
+    "url": "https://github.com/ivansslo/optimal-codex-live/issues"
+  },
+  "keywords": [
+    "ai",
+    "codex",
+    "workspace",
+    "openai",
+    "gpt",
+    "code-generation",
+    "sandbox",
+    "react",
+    "vite",
+    "tailwind"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "^1.21.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "tailwind-merge": "3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "7.3.2",
+    "vite-plugin-singlefile": "2.3.0"
+  }
+}
